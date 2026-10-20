@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background: #eef6f1;
-  color: #10301f;
+  background: #f6efe0;
+  color: #2b2118;
   font: 17px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 main {
@@ -10,10 +10,10 @@ main {
   padding: 48px 24px;
 }
 h1 {
-  color: #0f5132;
+  color: #2b2118;
 }
 a {
-  color: #157347;
+  color: #7a1f8c;
 }
 .warna {
   padding: 0;
